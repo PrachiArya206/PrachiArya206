@@ -22,8 +22,10 @@ Hi! I'm Prachi Arya, a first-year B.Tech student specializing in Computer Scienc
 
  Design Tools:
 Basic knowledge of Canva and Figma
+
  Tech Enthusiast:
 Passionate about exploring software development and UI/UX design
+
  Learning & Growth:
 Always eager to expand my skill set in programming and design
 
