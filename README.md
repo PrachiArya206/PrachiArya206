@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my GitHub profile! 
 
- Hi! I'm Prachi Arya, a first-year B.Tech student specializing in Computer Science and Engineering (CSE) at RCET.
+ Hi! I'm Prachi Arya, a first-year B.Tech student specializing in Computer Science and Engineering (CSE) .
 # About me
 
  I have a keen interest in technology, design, and learning new skills to enhance my knowledge in the field.
