@@ -35,5 +35,5 @@ Always eager to expand my skill set in programming and design
 
 # Get in Touch 
 
-Email: prachiarya206@gmail.com
+Linkdin:
 
