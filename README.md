@@ -31,9 +31,6 @@ Basic knowledge of Canva and Figma
 Passionate about exploring software development and UI/UX design
 
  Learning & Growth:
-Always eager to expand my skill set in programming and design
+Always eager to expand my skill set in programming and design.
 
-# Get in Touch 
-
-Linkdin:
 
