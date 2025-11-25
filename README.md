@@ -1,6 +1,6 @@
 <!---- 👋 Hi, I’m @PrachiArya206
 - 🌱 I’m currently pursuing B.tech CSE.
-- 🌻I'm a first year student.
+- 🌻I'm a student.
 <!-- - 👀 I’m interested in ...
 
 - 💞️ I’m looking to collaborate on ...
